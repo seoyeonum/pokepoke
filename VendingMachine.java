@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class VendingMachine
 {
 	public static int gusetNum;
-ad	public static void main(String[] args) throws Exception
+public static void main(String[] args) throws Exception
 	{
 		String secretCode = "";  // 관리자, 종료 코드를 구분하기 위한 변수
 		int setMealKcal = 0;     // 한끼 권장 칼로리를 담는 변수

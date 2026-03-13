@@ -13,3 +13,8 @@
 bin/
 out/
 target/
+
+# build folders
+build/
+out/
+bin/
